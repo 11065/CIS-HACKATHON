@@ -1,15 +1,12 @@
-# CIS---HACKATHON
+# CIS HACKATHON
 TEAM - 10
 
-# aws-contactus-serverless-website
+# Aws Contact Us Serverless Website
 
 Leverage AWS Services Amazon CloudFront, AWS WAF, Amazon S3, Amazon API Gateway, AWS Lambda, Amazon SES to build and deploy a Contact Us serverless Website. Static Website content hosted on Amazon S3 and the REST API is deployed on Amazon API Gateway integrated with AWS Lambda and Amazon SES. Website content is served through Amazon CloudFront and protected through AWS WAF and AWS WAF CAPTCHA.
 
 ## Goal
 Setup, build, test and deploy serverless Contact Us website leveraging AWS serverless services using AWS Serverless Application Model framework.
-
-## Architecture
-![Architecture](assets/architecture.png)
 
 
 ## Prerequisites
